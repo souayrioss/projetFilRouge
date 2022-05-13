@@ -1,7 +1,8 @@
 # youBeldi:
 		
 	
-	_ Application qui expose les produits traditionnels  tels que: les tissus,djellaba, canftans... , qui permet au visiteurs d'expoler et commander  nos produits cet application se compose de deux sides:
+	_ Application qui expose les produits traditionnels  tels que: les tissus,djellaba, canftans... , qui permet 
+	au visiteurs d'expoler et commander  nos produits cet application se compose de deux sides:
 
 	#Admin side:
         +ajouter, modifier,et supprimer produits (crud).
