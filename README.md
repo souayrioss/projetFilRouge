@@ -14,7 +14,8 @@
 
 	#Client side:
         +voir les produits 
-        +choisir un tissu et le tester d'une façon qui'il peut voir les couleurs et les modéles assorti avec le tissu avant de le tailler 
+        +choisir un tissu et le tester d'une façon qui'il peut voir les couleurs et les modéles assorti avec le tissu 
+	avant de le tailler 
         +payment
         +envoyer des messages au vendeur ou poser des questions ou proposer des modéles
         +donner un feddback
